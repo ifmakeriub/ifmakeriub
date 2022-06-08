@@ -1,6 +1,9 @@
 <h1> IFMaker Itumbiara </h1>
 Laboratório Maker do IFG Campus Itumbiara
 <br>Instagram:<i> @ifmaker.itumbiara</i>
+<img src="https://github.com/ifmakeriub/ifmakeriub/blob/main/maker.jpg" alt="IFMAker Itumbiara" width="800" height="300">
+<br>
+Laboratório de acesso público, disponível para todos os interessados em desenvolver projetos maker (faça você mesmo).
 
 <!---
 ifmakeriub/ifmakeriub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
