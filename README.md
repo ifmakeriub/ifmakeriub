@@ -36,9 +36,7 @@ Equipamentos disponíveis:
   <br><a href="https://cncgcode.weebly.com/" target="_blank"> CNCgcode </a>
   <br><a href="https://3axis.co/" target="_blank"> 3axis.co </a>
   <br><a href="http://jeromeleary.com/laser/" target="_blank"> Projeto de caixas </a>  
-  <br><a href="https://www.myminifactory.com/" target="_blank"> Myminifactory </a>
-  <br><a href="https://cults3d.com/" target="_blank"> Cults3d </a>
-  <br><a href="https://pinshape.com/" target="_blank"> Pinshape </a> 
+ 
   <hr>
   Páginas com projetos Makers
   <br><a href="https://www.instructables.com/" target="_blank"> Instructables </a>
