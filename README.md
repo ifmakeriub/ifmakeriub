@@ -47,7 +47,12 @@ Equipamentos disponíveis:
   <br><a href="https://www.youtube.com/c/BrincandocomIdeias" target="_blank"> Brincando com ideias *</a>
   <br><a href="https://www.youtube.com/internetecoisas" target="_blank"> Internet e Coisas *</a>
   <br><a href="https://www.tinkercad.com/" target="_blank"> Tinkercad </a>
-  <br>* Canal no Youtube
+  <br><a href="https://blog.eletrogate.com/" target="_blank"> Blog Eletrogate</a>
+  <br><a href="https://www.filipeflop.com/blog/" target="_blank"> Blog Filipeflop </a>
+  <br><a href="https://labdegaragem.com/" target="_blank"> Laboratório de Garagem </a>
+  <br><a href="https://randomnerdtutorials.com/" target="_blank"> Random Nerd Tutorials </a>
+  <br><a href="https://mjrobot.org/tutoriais/" target="_blank"> MJRoBot </a> 
+ <br>* Canal no Youtube
 <!---
 ifmakeriub/ifmakeriub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
