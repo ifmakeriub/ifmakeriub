@@ -8,7 +8,7 @@ Laboratório Maker do IFG Campus Itumbiara
 <h3> Funcionamento </h3>
 
 De Segunda a Sexta-feira - 8h às 12h, 13h às 17 e 18:30 às 21h
-<br>Av. Furnas 55, Itumbiara - Go (IFG Campus Itumbiara) 
+<br>Av. Furnas 55, Itumbiara - GO (IFG Campus Itumbiara) 
 <hr>
 Laboratório de acesso público, disponível para todos os interessados em desenvolver projetos maker (faça você mesmo).
 <p>
@@ -49,6 +49,7 @@ Equipamentos disponíveis:
   <br><a href="https://www.tinkercad.com/" target="_blank"> Tinkercad </a>
   <br><a href="https://blog.eletrogate.com/" target="_blank"> Blog Eletrogate</a>
   <br><a href="https://www.filipeflop.com/blog/" target="_blank"> Blog Filipeflop </a>
+  <br><a href="https://www.curtocircuito.com.br/blog" target="_blank"> Blog Curto Circuito </a>
   <br><a href="https://labdegaragem.com/" target="_blank"> Laboratório de Garagem </a>
   <br><a href="https://randomnerdtutorials.com/" target="_blank"> Random Nerd Tutorials </a>
   <br><a href="https://mjrobot.org/tutoriais/" target="_blank"> MJRoBot </a> 
