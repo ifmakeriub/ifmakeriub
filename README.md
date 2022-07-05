@@ -1,7 +1,7 @@
 <img src="https://github.com/ifmakeriub/ifmakeriub/blob/main/maker.jpg" alt="IFMAker Itumbiara" width="800" height="300">
 
 Laboratório Maker do IFG Campus Itumbiara
-<br>Instagram:<i> @ifmaker.itumbiara</i>
+<br>Instagram: <a href="https://www.instagram.com/ifmaker.itumbiara/"><i> @ifmaker.itumbiara</i></a>
 <br>E-mail:<i> ifmaker.itumbiara@ifg.edu.br</i>
 <br>Website: https://linktr.ee/ifmaker.itumbiara
 <br><hr>
