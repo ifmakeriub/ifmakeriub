@@ -7,7 +7,7 @@ Laboratório Maker do IFG Campus Itumbiara
 <br><hr>
 <h3> Funcionamento </h3>
 
-De Segunda a Sexta-feira - 8h às 12h, 13h às 17 e 18:30 às 21h
+De Segunda a Sexta-feira - 8h às 12h, 13h às 17
 <br>Av. Furnas 55, Itumbiara - GO (IFG Campus Itumbiara) 
 <hr>
 Laboratório de acesso público, disponível para todos os interessados em desenvolver projetos maker (faça você mesmo).
@@ -17,8 +17,11 @@ Equipamentos disponíveis:
 <br> - Pequeno porte (Resina e Filamento)
 <br> - Médio Porte (Filamento)
 <br>Scanner 3D
+<br>Caneta 3D
 <br>CNC Router Mini
+<br>CNC Laser
 <br>Kit Robótica Arduino
+<br>Kit Robótica Lego
 <br>Bancada para montagem de circuitos eletrônicos
   <hr>
   Páginas para downloads de arquivos 3D
