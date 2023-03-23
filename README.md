@@ -54,6 +54,18 @@ Equipamentos disponíveis:
   <br><a href="https://randomnerdtutorials.com/" target="_blank"> Random Nerd Tutorials </a>
   <br><a href="https://mjrobot.org/tutoriais/" target="_blank"> MJRoBot </a> 
  <br>* Canal no Youtube
+ 
+ <hr>
+  Softwares utilizados no laboratório
+  <br> <a href="https://ultimaker.com/software/ultimaker-cura">Ultimaker Cura</a> 
+  <br> <a href="https://www.repetier.com/download-now/">Repetier Host</a> 
+  <br> <a href="https://www.autodesk.com.br/products/fusion-360/overview?term=1-YEAR&tab=subscription">Fusion 360</a> 
+  <br> <a href="https://www.arduino.cc/en/software">Arduino IDE</a>
+  <br> <a href="https://winder.github.io/ugs_website/">Universal GCode Sender</a>
+  <br> <a href="https://www.onlyoffice.com/download-desktop.aspx">Only Office</a>
+  <br> <a href="https://education.lego.com/pt-br/downloads/spike-app/software">Lego Education Spike</a>
+  <br> <a href="https://www.rdacs.com/en/download?type=software">RDWorksV8(8.01.60)</a>
+  
 <!---
 ifmakeriub/ifmakeriub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
