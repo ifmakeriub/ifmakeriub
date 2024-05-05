@@ -32,7 +32,6 @@ Equipamentos disponíveis:
   <br><a href="https://www.myminifactory.com/" target="_blank"> Myminifactory </a>
   <br><a href="https://cults3d.com/" target="_blank"> Cults3d </a>
   <br><a href="https://pinshape.com/" target="_blank"> Pinshape </a>
-  <br><a href="https://3d-gallery.xyzprinting.com/en-US/promotion/group-page/Houseware?utm_source=201803_Home_gallery" target="_blank"> Color 3D Gallery </a>
   <hr> 
   Páginas para downloads de arquivos CNC (Router ou Laser)
   <br><a href="https://www.clubecncbrasil.com.br/" target="_blank"> Clube CNC Brasil </a>
