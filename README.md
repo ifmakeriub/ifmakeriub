@@ -50,7 +50,7 @@ Equipamentos disponíveis:
   <br><a href="https://www.youtube.com/internetecoisas" target="_blank"> Internet e Coisas *</a>
   <br><a href="https://www.tinkercad.com/" target="_blank"> Tinkercad </a>
   <br><a href="https://blog.eletrogate.com/" target="_blank"> Blog Eletrogate</a>
-  <br><a href="https://www.filipeflop.com/blog/" target="_blank"> Blog Filipeflop </a>
+  <br><a href="https://www.makerhero.com/blog/" target="_blank"> Blog Make Hero </a>
   <br><a href="https://www.curtocircuito.com.br/blog" target="_blank"> Blog Curto Circuito </a>
   <br><a href="https://labdegaragem.com/" target="_blank"> Laboratório de Garagem </a>
   <br><a href="https://randomnerdtutorials.com/" target="_blank"> Random Nerd Tutorials </a>
