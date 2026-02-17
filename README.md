@@ -25,6 +25,7 @@ Equipamentos disponíveis:
 <br>Bancada para montagem de circuitos eletrônicos
   <hr>
   Páginas para downloads de arquivos 3D
+  <br><a href="https://makerworld.com/pt" target="_blank"> Maker World </a>
   <br><a href="https://www.thingiverse.com/" target="_blank"> Thingiverse </a>
   <br><a href="https://thangs.com/" target="_blank"> Thangs </a>
   <br><a href="https://grabcad.com/library/software/nx" target="_blank"> Grabcad </a>
